@@ -1,3 +1,5 @@
+#!/bin/bash
+
 A=2
 echo $A
 unset A
