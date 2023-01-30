@@ -1,0 +1,3 @@
+/home/hao/shellax/ShellScript/Cpp/p2/build/CMakeFiles/main_cmake.dir
+/home/hao/shellax/ShellScript/Cpp/p2/build/CMakeFiles/edit_cache.dir
+/home/hao/shellax/ShellScript/Cpp/p2/build/CMakeFiles/rebuild_cache.dir
