@@ -8,7 +8,6 @@ class Soldier
 
 public:
     Soldier(string name);
-    
     void addBullet(int num);
     void addGun(Gun* ptr);
     bool fire();
